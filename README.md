@@ -1,4 +1,5 @@
 # E90-Autonomous-Vehicle
+by Chris Grasberger & Mike Chen
 
 The goal of this project was to create an autonomous vehicle that would be capable of traveling the paths of campus. The framework we started with was simply the chassis and the motors. A motor controller, self tuning PID controller, deep cycle solar batteries, a laptop, a small web camera, and a video game controller were acquired to create our autonomous vehicle. Using Robot Operating System (ROS), we implemented a vision node as well as a controller node. The vision node utilized a support vector machine to classify on every image taken from the camera and classified each pixel as path or not path. This information was then sent to the controller node which processed the data from the vision node to calculate individual wheel speeds. Unfortunately we were not able to fully accomplish our goal of creating a fully autonomous vehicle, but we were able to create a solid framework capable of path detection and following.  
 
