@@ -26,3 +26,6 @@ the vehicle with a game controller. You can manually control each wheel speed fr
 
 Cvk2.py is a script written by Matt Zucker. It allows additional fuctionality
 when using findContours which aids in the process.
+
+Blurb about our project:
+http://www.swarthmore.edu/news-events/watch-driving-progress
