@@ -15,7 +15,7 @@ The ml_data contains files to train the support vector machine with. It has
 a test set as well as a target set. This data set is by no means comprehensive.
 There needs to be more variety added to be fully capable of path detection.
 
-The results folder contains images of the results of our vision processed
+The results folder contains images of the results of our vision process
 
 Con.py is a python script taken from Noah Weinthal and Neil MacFarland E90 project
 that allows python communication with a controller. It is imported into other
